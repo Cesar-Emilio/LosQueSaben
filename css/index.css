@@ -57,11 +57,12 @@ tbody tr:nth-child(even) {
 }
 
 a {
-    text-decoration: none;
-    color: #00ff11;
+    text-decoration: underline;
+    color: #a6ff99;
     font-weight: bold;
 }
 
 a:hover {
-    text-decoration: underline;
+    color: #0dff00;
+    transition: 0.2s;
 }
