@@ -1,0 +1,42 @@
+.body{
+    background-color: rgb(60, 53, 9);
+}
+
+.img1{
+    text-align: center
+}
+
+.txt1{
+    color: aliceblue;
+    font-size: 4em;
+    text-align: center;
+}
+
+.img2{
+    width: 900px;
+    height: 400px;
+}
+
+.txt2{
+    color: white;
+    font-size: 2em;
+}
+
+.cuadrado {
+    background: rgb(91, 81, 14); 
+    padding: 65px; 
+    display: inline-block;
+    border-radius: 5px;
+    margin-top: ce;
+}
+
+.img3{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.txt3{
+    color: white;
+    font-size: 2em;
+    text-align: center;
+}
